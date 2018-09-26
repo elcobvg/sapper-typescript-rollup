@@ -1,0 +1,11 @@
+.DS_Store
+.rpt2_cache
+node_modules
+/.sapper/
+yarn.lock
+yarn-error.log
+/cypress/screenshots/
+/templates/.*
+/export/
+/build/
+/src/manifest/
