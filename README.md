@@ -4,6 +4,7 @@ A version of the default [Sapper](https://github.com/sveltejs/sapper) template t
 
 ```bash
 npx degit elcobvg/sapper-typescript-rollup my-app
+
 cd my-app
 npm install # or yarn!
 npm run dev
@@ -18,3 +19,4 @@ Consult [sapper.svelte.technology](https://sapper.svelte.technology) for help ge
 - Typescript
 - Rollup
 - Sass/SCSS
+
