@@ -6,7 +6,7 @@ A version of the default [Sapper](https://github.com/sveltejs/sapper) template t
 npx degit elcobvg/sapper-typescript-rollup my-app
 
 cd my-app
-npm install # or yarn!
+npm install # or pnpm!
 npm run dev
 ```
 
